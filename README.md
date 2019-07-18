@@ -1,1 +1,1 @@
-# Exoplaner-Exploration---Machine-Learning
+# Exoplanet-Exploration---Machine-Learning
